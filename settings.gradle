@@ -1,0 +1,3 @@
+rootProject.name = "FontAwsomeIcons"
+include ':app'
+include ':Icons'
